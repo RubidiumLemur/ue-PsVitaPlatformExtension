@@ -27,7 +27,7 @@ Blueprint gameplay is restricted by the Vita runtime. Use native C++ gameplay an
 - [Vita particles plugin](Plugins/VitaParticles/README.md)
 
 ## AI Usage/Contributing
-I mean, I hand coded this for a few months now, and I got codex to write comments/docs(if it touches the vita code I fear something will break).
+I mean, I hand coded this for a few months now, and I got codex to write comments/docs/cook audit(if it touches the core code I fear something will break).
 Because I technically used AI in this project, ai protestors won't touch this.
 If you want to contribute, go right ahead and submit a pr if you did something.
 And if you want to contribute and its fully vibe coded, as long as its functional i guess its fine.
