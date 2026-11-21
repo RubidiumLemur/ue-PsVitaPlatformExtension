@@ -31,3 +31,13 @@ I mean, I hand coded this for a few months now, and I got codex to write comment
 Because I technically used AI in this project, ai protestors won't touch this.
 If you want to contribute, go right ahead and submit a pr if you did something.
 And if you want to contribute and its fully vibe coded, as long as its functional i guess its fine.
+
+
+## Potential issues
+Cascade is very hit or miss, sometimes nothing spawns at all. use vitaparticles instead.
+Your game will literally refuse to compile if a single blueprint is in your project(except anim bps and level bps) this is due to the fact that they will literally demolish your performance.
+Lower than expected performance. solution: bake your lighting and use neon everywhere.
+Slow install: this is due to the precompiled shaders not being packed in a way that vitashell installs properly.
+
+## NOTE
+As i've previously stated this is extremely experimental, expect breaking changes!
